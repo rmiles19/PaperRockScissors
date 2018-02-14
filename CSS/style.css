@@ -1,0 +1,18 @@
+h1 {
+  text-align: center; 
+}
+
+h3 {
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+body {
+  text-align: center;
+  background-image: url("http://cdn-images.threadless.com/threadless-shop/products/6181/1272x920design_01.jpg");
+}
+.user {
+  text: strong
+}
